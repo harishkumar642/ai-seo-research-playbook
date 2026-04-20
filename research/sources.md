@@ -1,52 +1,51 @@
+## SEO & AI Experts Research Sources
 
-Sources
+### Neil Patel
+- Source: https://neilpatel.com/blog/ai-seo
+- Date: 01.2024
+- Key Idea: AI-generated content should be edited and optimized by humans to perform well in SEO.
 
- 1. Neil Patel
-$ Platform: YouTube, Blog
-$ Focus: SEO + AI content strategy
-$ Why selected: Industry expert with practical strategies
+### Brian Dean
+- Source: https://backlinko.com/hub/seo
+- Date: 03.2023
+- Key Idea: High-quality backlinks and matching search intent are critical ranking factors.
 
- 2. Brian Dean
-$ Platform: Blog (Backlinko), YouTube
-$ Focus: SEO frameworks
-$ Why selected: Known for structured SEO methods
+### Ahrefs
+- Source: https://ahrefs.com/blog/search-intent
+- Date: 09.2023
+- Key Idea: Content must match search intent rather than just targeting keywords.
 
- 3. Ahrefs
-$ Platform: YouTube
-$ Focus: Keyword research + SEO tutorials
-$ Why selected: Practical tool-based learning
+### SEMrush
+- Source: https://semrush.com/blog/keyword-research
+- Date: 11.2023
+- Key Idea: Keyword research and competitor analysis are essential for SEO success.
 
- 4. Semrush
-$ Platform: Blog, YouTube
-$ Focus: SEO tools + AI content
-$ Why selected: Industry-level data insights
+### Julian Goldie
+- Source: https://www.youtube.com/@JulianGoldieSEO
+- Date: 2024
+- Key Idea: AI can automate SEO workflows, but quality control is necessary to avoid low-value content.
 
- 5. Julian Goldie
-$ Platform: YouTube
-$ Focus: AI SEO automation
-$ Why selected: Real AI workflows
+### Matt Diggity
+- Source: https://diggitymarketing.com/seo-strategy
+- Date: 06.2023
+- Key Idea: SEO testing and experimentation help identify effective ranking strategies.
 
- 6. Matt Diggity
-$ Platform: Blog, YouTube
-$ Focus: Affiliate SEO
-$ Why selected: Data-driven SEO strategies
+### Gael Breton
+- Source: https://authorityhacker.com
+- Date: 2023
+- Key Idea: Structured SEO systems and processes improve scalability and consistency.
 
- 7. Gael Breton
-$ Platform: Authority Hacker
-$ Focus: SEO systems
-$ Why selected: Proven SEO frameworks
+### Nathan Gotch
+- Source: https://gotchseo.com
+- Date: 2023
+- Key Idea: SEO fundamentals like on-page optimization and site structure are essential for beginners.
 
- 8. Nathan Gotch
-$ Platform: YouTube
-$ Focus: SEO training
-$ Why selected: Beginner-friendly explanation
+### Lily Ray
+- Source: https://lilyray.nyc/google-algorithm-updates
+- Date: 02.2024
+- Key Idea: Google prioritizes E-E-A-T (Experience, Expertise, Authority, Trust) in rankings.
 
- 9. Lily Ray
-$ Platform: LinkedIn
-$ Focus: Google algorithm + SEO
-$ Why selected: Trusted SEO analyst
-
-10. Ross Simmonds
-$ Platform: LinkedIn
-$ Focus: Content distribution
-$ Why selected: Strong SaaS content strategy
+### Ross Simmonds
+- Source: https://foundationinc.co/lab/content-distribution
+- Date: 2023
+- Key Idea: Content distribution is as important as content creation for SEO success.
