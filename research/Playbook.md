@@ -59,3 +59,32 @@
 - **My Decision:**  
   I follow search intent over length.  
   Writing only what is necessary improves user experience and avoids unnecessary content.
+## What I Rejected and Why
+
+### 1. Fully Automated AI Content Without Human Editing
+
+- **Source:** Julian Goldie (https://www.youtube.com/@JulianGoldieSEO, 2024)  
+- **Idea:** Use AI to fully automate content creation at scale  
+
+- **Why I Rejected It:**  
+  Fully automated content often lacks originality, depth, and trust. It may also fail to meet Google's E-E-A-T guidelines and can negatively impact rankings. Human editing is necessary to ensure quality, accuracy, and user value.
+
+---
+
+### 2. Over-Focus on Backlinks Without Content Quality
+
+- **Source:** Brian Dean (https://backlinko.com/hub/seo, 03.2023)  
+- **Idea:** Backlinks are a major ranking factor and should be heavily prioritized  
+
+- **Why I Rejected It:**  
+  While backlinks are important, focusing on them without strong content can lead to poor user experience and unstable rankings. High-quality, intent-driven content is required before building backlinks.
+
+---
+
+### 3. Keyword Density Optimization
+
+- **Source:** SEMrush (https://semrush.com/blog/keyword-research, 11.2023)  
+- **Idea:** Optimizing keyword usage can improve rankings  
+
+- **Why I Rejected It:**  
+  Modern SEO prioritizes search intent over keyword repetition. Over-optimizing keywords can lead to unnatural content and may harm readability and rankings.
