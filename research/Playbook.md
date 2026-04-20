@@ -135,4 +135,32 @@ With many creators using AI for SEO, there is a risk of content saturation. This
 Although AI speeds up content creation, achieving high-quality SEO results still requires time for editing, testing, and optimization.
 - **What makes it original:**  
   None of the researched experts directly combine AI content generation with real-time behavioral feedback for continuous optimization. This approach bridges the gap between automation and user-centric SEO.
-  
+  ## Who I Would NOT Recommend Following and Why
+
+### 1. Julian Goldie
+
+- **Reason:**  
+  Julian Goldie strongly promotes large-scale AI automation for SEO content creation. While this approach can produce content quickly, it often risks generating low-quality or repetitive content if not carefully controlled.
+
+- **Why I Would Not Recommend:**  
+  Beginners may misunderstand this strategy and rely too heavily on automation without focusing on content quality, user intent, and E-E-A-T principles. This can lead to poor rankings or penalties in the long term.
+
+---
+
+### 2. Matt Diggity (for beginners)
+
+- **Reason:**  
+  Matt Diggity focuses heavily on SEO testing, experiments, and advanced optimization strategies.
+
+- **Why I Would Not Recommend:**  
+  While his strategies are effective, they may be too complex for beginners who lack foundational SEO knowledge. Following advanced experimentation without understanding basics can lead to confusion or incorrect implementation.
+
+---
+
+### 3. Nathan Gotch (partially)
+
+- **Reason:**  
+  Nathan Gotch emphasizes structured SEO frameworks and standard optimization techniques.
+
+- **Why I Would Not Recommend (partially):**  
+  His approach may feel too rigid and less adaptable to rapidly changing AI-driven SEO trends. Beginners might follow fixed rules instead of learning to adapt based on real-time data and updates.
